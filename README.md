@@ -2,31 +2,27 @@
 
 * [Bill's notes as he goes](https://www.evernote.com/l/AF66Ujp7hstPxoBWI_Xebjx2c4uY5X7hnq0)
 
-This is an attempt at a progressive web app — here's commentary from:
+This is a prototype Progressive Web App (PWA) — here's commentary from:
 
 * [Google](https://developers.google.com/web/progressive-web-apps/)
 * [Mozilla](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 * [Microsoft](https://developer.microsoft.com/en-us/windows/pwa)
 * *About* [Apple](https://medium.com/@firt/whats-new-on-ios-12-2-for-progressive-web-apps-75c348f8e945)
 
-It's natural that Google is at the forefront of PWA's, while Apple is bringing up the rear but tagging along at least.
+In short, a PWA should act kind of like a native mobile app — they seem to work best on Android devices and desktop, and they're getting better on iOS.
 
-*Specifically*, this app is an experiment combining:
+This particular app is an experiment combining:
 
-* [Google Maps](https://developers.google.com/maps/documentation/javascript/tutorial) — via the npm package [react-google-maps](https://github.com/tomchentw/react-google-maps)
-* [React](https://reactjs.org/) with [TypeScript](https://www.typescriptlang.org/)
+* [Google Maps](https://developers.google.com/maps/documentation/javascript/tutorial) — via the adapter [react-google-maps](https://github.com/tomchentw/react-google-maps)
+* [React](https://reactjs.org/) with [TypeScript](https://www.typescriptlang.org/), bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Prerequisites
+## Getting Started
 
 Install `npm` (or `yarn` — in which case substitute the equivalent `yarn` commands below) and run:
 
 ### `npm install`
 
-## Available Scripts
-
-In the project directory, you can run:
+Then, in the project directory, you can run:
 
 ### `npm start`
 
@@ -46,10 +42,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 Builds the app for production to the `build` folder.<br>
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The build is minified and the filenames include the hashes — ready to be [deployed](https://facebook.github.io/create-react-app/docs/deployment)!
 
 ## Learn More
 
