@@ -1,6 +1,6 @@
 {
-  "name": "Maps Prototype",
-  "short_name": "Maps and React Experiment",
+  "name": "Map / React Experiment",
+  "short_name": "Map Experiment",
   "icons": [
     {
       "src": "/android-chrome-144x144.png",
