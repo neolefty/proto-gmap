@@ -7,9 +7,9 @@ This is a prototype Progressive Web App (PWA) — here's commentary from:
 * [Google](https://developers.google.com/web/progressive-web-apps/)
 * [Mozilla](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 * [Microsoft](https://developer.microsoft.com/en-us/windows/pwa)
-* ~from~ *About* [Apple](https://medium.com/@firt/whats-new-on-ios-12-2-for-progressive-web-apps-75c348f8e945)
+* ~~from~~ *About* [Apple](https://medium.com/@firt/whats-new-on-ios-12-2-for-progressive-web-apps-75c348f8e945)
 
-In short, a PWA should act kind of like a native mobile app — they seem to work best on Android devices and desktop, and they're getting better on iOS — [here's a comparison](https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7) of iOS and Android.
+In short, a PWA should act kind of like a native mobile app — they work best on Android devices and desktop, and they're getting better on iOS, especially in 12.2 (March 25, 2019). [Here's a comparison between iOS and Android](https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7) from March 2018 that's still pretty good.
 
 This particular app is an experiment combining:
 
