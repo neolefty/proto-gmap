@@ -43,19 +43,21 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes — ready to be [deployed](https://facebook.github.io/create-react-app/docs/deployment)!
 
-## More about React
+## Further Reading
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-## More about PWAs
+### PWAs
 
 * Alex Russell's [What, Exactly, Makes Something A Progressive Web App](https://infrequently.org/2016/09/what-exactly-makes-something-a-progressive-web-app/) (2016, but a classic) — includes timeless UX advice. Alex is a Chrome developer who helped make modern PWA's possible.
 
 * Owen Campbell-Moore's [Designing Great UIs for Progressive Web Apps](https://medium.com/@owencm/designing-great-uis-for-progressive-web-apps-dd38c1d20f7) — more high-level advice.
 
 * Elisabeth Morant's Google IO talk [Asking for Permission: respectful, opinionated UI](https://www.youtube.com/watch?v=4QQyjqtHwlY) — how to ask for permissions in such a way that users say "Yes", and related principles such as allowing the user to revoke a permission and handling failure gracefully.
+
+### React
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Implementation notes
 
