@@ -17,7 +17,7 @@ This particular app is an experiment combining:
 
 ## Getting Started
 
-Install `npm` (or `yarn` — in which case substitute the equivalent `yarn` commands below) and run:
+Install `npm` (`yarn` works too) and run:
 
 ### `npm install`
 
@@ -52,6 +52,8 @@ The build is minified and the filenames include the hashes — ready to be [dep
 * Owen Campbell-Moore's [Designing Great UIs for Progressive Web Apps](https://medium.com/@owencm/designing-great-uis-for-progressive-web-apps-dd38c1d20f7) — more high-level advice.
 
 * Elisabeth Morant's Google IO talk [Asking for Permission: respectful, opinionated UI](https://www.youtube.com/watch?v=4QQyjqtHwlY) — how to ask for permissions in such a way that users say "Yes", and related principles such as allowing the user to revoke a permission and handling failure gracefully.
+
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse/) — website auditing tools build into Chrome.
 
 ### React
 

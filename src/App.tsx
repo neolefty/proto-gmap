@@ -1,21 +1,17 @@
 import React, { Component } from 'react';
 import './App.css';
+import {MapExperiment} from './MapExperiment'
 
 class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <header className="App-header">
-          <p>
-            Google Maps / React prototype
-          </p>
-          <p>
-            Nothing here yet — edit <code>src/App.tsx</code> and save to reload.
-          </p>
-        </header>
-      </div>
-    );
-  }
+    render() {
+        return (
+            <MapExperiment lat={-34.4} lng={150.6}/>
+        );
+    }
 }
+
+// const App = () => (
+//     <MapExperiment lat={-34.4} lng={150.6}/>
+// )
 
 export default App;
